@@ -1,0 +1,388 @@
+-------------------------------------------------------------
+
+Name: bracketChris
+
+
+Game Number 1: 
+
+     Winner: kansas    Your Pick: kansas
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 1
+
+
+Game Number 2: 
+
+     Winner: connecticut    Your Pick: connecticut
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 2
+
+
+Game Number 3: 
+
+     Winner: maryland    Your Pick: maryland
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 3
+
+
+Game Number 4: 
+
+     Winner: hawaii    Your Pick: california
+     Points At Stake: 1    Points Awarded: 0     Cumulative Score: 3
+
+
+Game Number 5: 
+
+     Winner: wichita state    Your Pick: wichita state
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 4
+
+
+Game Number 6: 
+
+     Winner: miami    Your Pick: miami
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 5
+
+
+Game Number 7: 
+
+     Winner: iowa    Your Pick: temple
+     Points At Stake: 1    Points Awarded: 0     Cumulative Score: 5
+
+
+Game Number 8: 
+
+     Winner: villanova    Your Pick: villanova
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 6
+
+
+Game Number 9: 
+
+     Winner: oregon    Your Pick: oregon
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 7
+
+
+Game Number 10: 
+
+     Winner: saint josephs    Your Pick: saint josephs
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 8
+
+
+Game Number 11: 
+
+     Winner: yale    Your Pick: baylor
+     Points At Stake: 1    Points Awarded: 0     Cumulative Score: 8
+
+
+Game Number 12: 
+
+     Winner: duke    Your Pick: unc asheville
+     Points At Stake: 1    Points Awarded: 0     Cumulative Score: 8
+
+
+Game Number 13: 
+
+     Winner: uni    Your Pick: uni
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 9
+
+
+Game Number 14: 
+
+     Winner: texas am    Your Pick: texas am
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 10
+
+
+Game Number 15: 
+
+     Winner: vcu    Your Pick: vcu
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 11
+
+
+Game Number 16: 
+
+     Winner: oklahoma    Your Pick: oklahoma
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 12
+
+
+Game Number 17: 
+
+     Winner: north carolina    Your Pick: north carolina
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 13
+
+
+Game Number 18: 
+
+     Winner: providence    Your Pick: providence
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 14
+
+
+Game Number 19: 
+
+     Winner: indiana    Your Pick: chattanooga
+     Points At Stake: 1    Points Awarded: 0     Cumulative Score: 14
+
+
+Game Number 20: 
+
+     Winner: kentucky    Your Pick: kentucky
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 15
+
+
+Game Number 21: 
+
+     Winner: notre dame    Your Pick: notre dame
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 16
+
+
+Game Number 22: 
+
+     Winner: steph f austin    Your Pick: west virginia
+     Points At Stake: 1    Points Awarded: 0     Cumulative Score: 16
+
+
+Game Number 23: 
+
+     Winner: wisconsin    Your Pick: wisconsin
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 17
+
+
+Game Number 24: 
+
+     Winner: xavier    Your Pick: xavier
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 18
+
+
+Game Number 25: 
+
+     Winner: virginia    Your Pick: virginia
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 19
+
+
+Game Number 26: 
+
+     Winner: butler    Your Pick: butler
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 20
+
+
+Game Number 27: 
+
+     Winner: little rock    Your Pick: purdue
+     Points At Stake: 1    Points Awarded: 0     Cumulative Score: 20
+
+
+Game Number 28: 
+
+     Winner: iowa state    Your Pick: iona
+     Points At Stake: 1    Points Awarded: 0     Cumulative Score: 20
+
+
+Game Number 29: 
+
+     Winner: gonzaga    Your Pick: gonzaga
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 21
+
+
+Game Number 30: 
+
+     Winner: utah    Your Pick: utah
+     Points At Stake: 1    Points Awarded: 1     Cumulative Score: 22
+
+
+Game Number 31: 
+
+     Winner: syracuse    Your Pick: dayton
+     Points At Stake: 1    Points Awarded: 0     Cumulative Score: 22
+
+
+Game Number 32: 
+
+     Winner: middle tenn    Your Pick: michigan state
+     Points At Stake: 1    Points Awarded: 0     Cumulative Score: 22
+
+
+Game Number 33: 
+
+     Winner: kansas    Your Pick: kansas
+     Points At Stake: 2    Points Awarded: 2     Cumulative Score: 24
+
+
+Game Number 34: 
+
+     Winner: maryland    Your Pick: california
+     Points At Stake: 2    Points Awarded: 0     Cumulative Score: 24
+
+
+Game Number 35: 
+
+     Winner: miami    Your Pick: miami
+     Points At Stake: 2    Points Awarded: 2     Cumulative Score: 26
+
+
+Game Number 36: 
+
+     Winner: villanova    Your Pick: villanova
+     Points At Stake: 2    Points Awarded: 2     Cumulative Score: 28
+
+
+Game Number 37: 
+
+     Winner: oregon    Your Pick: oregon
+     Points At Stake: 2    Points Awarded: 2     Cumulative Score: 30
+
+
+Game Number 38: 
+
+     Winner: duke    Your Pick: baylor
+     Points At Stake: 2    Points Awarded: 0     Cumulative Score: 30
+
+
+Game Number 39: 
+
+     Winner: texas am    Your Pick: texas am
+     Points At Stake: 2    Points Awarded: 2     Cumulative Score: 32
+
+
+Game Number 40: 
+
+     Winner: oklahoma    Your Pick: oklahoma
+     Points At Stake: 2    Points Awarded: 2     Cumulative Score: 34
+
+
+Game Number 41: 
+
+     Winner: north carolina    Your Pick: north carolina
+     Points At Stake: 2    Points Awarded: 2     Cumulative Score: 36
+
+
+Game Number 42: 
+
+     Winner: indiana    Your Pick: kentucky
+     Points At Stake: 2    Points Awarded: 0     Cumulative Score: 36
+
+
+Game Number 43: 
+
+     Winner: notre dame    Your Pick: west virginia
+     Points At Stake: 2    Points Awarded: 0     Cumulative Score: 36
+
+
+Game Number 44: 
+
+     Winner: wisconsin    Your Pick: xavier
+     Points At Stake: 2    Points Awarded: 0     Cumulative Score: 36
+
+
+Game Number 45: 
+
+     Winner: virginia    Your Pick: virginia
+     Points At Stake: 2    Points Awarded: 2     Cumulative Score: 38
+
+
+Game Number 46: 
+
+     Winner: iowa state    Your Pick: purdue
+     Points At Stake: 2    Points Awarded: 0     Cumulative Score: 38
+
+
+Game Number 47: 
+
+     Winner: gonzaga    Your Pick: utah
+     Points At Stake: 2    Points Awarded: 0     Cumulative Score: 38
+
+
+Game Number 48: 
+
+     Winner: syracuse    Your Pick: michigan state
+     Points At Stake: 2    Points Awarded: 0     Cumulative Score: 38
+
+
+Game Number 49: 
+
+     Winner: kansas    Your Pick: kansas
+     Points At Stake: 3    Points Awarded: 3     Cumulative Score: 41
+
+
+Game Number 50: 
+
+     Winner: villanova    Your Pick: miami
+     Points At Stake: 3    Points Awarded: 0     Cumulative Score: 41
+
+
+Game Number 51: 
+
+     Winner: oregon    Your Pick: oregon
+     Points At Stake: 3    Points Awarded: 3     Cumulative Score: 44
+
+
+Game Number 52: 
+
+     Winner: oklahoma    Your Pick: oklahoma
+     Points At Stake: 3    Points Awarded: 3     Cumulative Score: 47
+
+
+Game Number 53: 
+
+     Winner: north carolina    Your Pick: kentucky
+     Points At Stake: 3    Points Awarded: 0     Cumulative Score: 47
+
+
+Game Number 54: 
+
+     Winner: notre dame    Your Pick: west virginia
+     Points At Stake: 3    Points Awarded: 0     Cumulative Score: 47
+
+
+Game Number 55: 
+
+     Winner: virginia    Your Pick: virginia
+     Points At Stake: 3    Points Awarded: 3     Cumulative Score: 50
+
+
+Game Number 56: 
+
+     Winner: syracuse    Your Pick: michigan state
+     Points At Stake: 3    Points Awarded: 0     Cumulative Score: 50
+
+
+Game Number 57: 
+
+     Winner: villanova    Your Pick: kansas
+     Points At Stake: 4    Points Awarded: 0     Cumulative Score: 50
+
+
+Game Number 58: 
+
+     Winner: oklahoma    Your Pick: oklahoma
+     Points At Stake: 4    Points Awarded: 4     Cumulative Score: 54
+
+
+Game Number 59: 
+
+     Winner: north carolina    Your Pick: kentucky
+     Points At Stake: 4    Points Awarded: 0     Cumulative Score: 54
+
+
+Game Number 60: 
+
+     Winner: syracuse    Your Pick: michigan state
+     Points At Stake: 4    Points Awarded: 0     Cumulative Score: 54
+
+
+Game Number 61: 
+
+     Winner: villanova    Your Pick: kansas
+     Points At Stake: 6    Points Awarded: 0     Cumulative Score: 54
+
+
+Game Number 62: 
+
+     Winner: north carolina    Your Pick: michigan state
+     Points At Stake: 6    Points Awarded: 0     Cumulative Score: 54
+
+
+Game Number 63: 
+
+     Winner: villanova    Your Pick: michigan state
+     Points At Stake: 10    Points Awarded: 0     Cumulative Score: 54
+
+
+FINAL SCORE: 54
+
+
+-------------------------------------------------------------
+

@@ -1,0 +1,3 @@
+bracketAdam: 73
+bracketHeather: 63
+bracketChris: 54
